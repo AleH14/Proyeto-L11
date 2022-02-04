@@ -1,0 +1,5 @@
+C:\Users\Alejandro\Desktop\ejercicios pro\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\ejercicios pro\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+C:\Users\Alejandro\Desktop\ejercicios pro\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+C:\Users\Alejandro\Desktop\ejercicios pro\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+C:\Users\Alejandro\Desktop\ejercicios pro\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.pdb
